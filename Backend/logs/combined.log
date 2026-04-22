@@ -1,0 +1,878 @@
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-29 01:02:16"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-29 01:02:16"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-29 01:02:16"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-29 01:02:16"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-29 01:02:16"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-29 01:02:45"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-29 01:02:45"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-29 01:02:45"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-29 01:02:45"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-29 01:02:45"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-29 01:06:57"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-29 01:06:57"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-29 01:06:57"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-29 01:06:57"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-29 01:06:57"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-03-29 01:07:02"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-03-29 01:07:03"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-29 16:40:28"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-29 16:40:28"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-29 16:40:28"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-29 16:40:28"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-29 16:40:28"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-29 16:45:16"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-29 16:45:16"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-29 16:45:16"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-29 16:45:16"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-29 16:45:16"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-29 17:51:29"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-29 17:51:29"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-29 17:51:29"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-29 17:51:29"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-29 17:51:29"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750723216","timestamp":"2026-03-29 17:51:58"}
+{"level":"info","message":"Book found: Atesten Gömlek by Halide Edip Adivar","timestamp":"2026-03-29 17:51:58"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-03-29 17:57:24"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-03-29 17:57:24"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750738600","timestamp":"2026-03-29 17:57:40"}
+{"level":"info","message":"Book found: Seker Portakali by José Mauro de Vasconcelos","timestamp":"2026-03-29 17:57:41"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-29 21:24:33"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-29 21:24:33"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-29 21:24:33"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-29 21:24:33"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-29 21:24:33"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750723216","timestamp":"2026-03-29 21:38:05"}
+{"level":"info","message":"Book found: Atesten Gömlek by Halide Edip Adivar","timestamp":"2026-03-29 21:38:06"}
+{"level":"info","message":"Fetching book details for ISBN: 9786059199735","timestamp":"2026-03-29 21:38:34"}
+{"level":"warn","message":"No book found for ISBN: 9786059199735","timestamp":"2026-03-29 21:38:35"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750723216","timestamp":"2026-03-29 21:38:51"}
+{"level":"info","message":"Book found: Atesten Gömlek by Halide Edip Adivar","timestamp":"2026-03-29 21:38:52"}
+{"level":"info","message":"Fetching book details for ISBN: 9786059199735","timestamp":"2026-03-29 21:39:01"}
+{"level":"warn","message":"No book found for ISBN: 9786059199735","timestamp":"2026-03-29 21:39:01"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-03-29 21:39:42"}
+{"level":"info","message":"Book found: Aklindan Bir Sayi Tut by John Verdon","timestamp":"2026-03-29 21:39:43"}
+{"level":"info","message":"Fetching book details for ISBN: 9786059199735","timestamp":"2026-03-29 21:40:09"}
+{"level":"warn","message":"No book found for ISBN: 9786059199735","timestamp":"2026-03-29 21:40:09"}
+{"level":"info","message":"Fetching book details for ISBN: 9786059199735","timestamp":"2026-03-29 21:42:49"}
+{"level":"warn","message":"No book found for ISBN: 9786059199735","timestamp":"2026-03-29 21:42:49"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-29 22:24:41"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-29 22:24:41"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-29 22:24:41"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-29 22:24:41"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-29 22:24:41"}
+{"level":"info","message":"Fetching book details for ISBN: 9789751031051","timestamp":"2026-03-29 22:33:06"}
+{"level":"info","message":"Book found: Suların Getirdiği Padişah by Cahit Ülkü","timestamp":"2026-03-29 22:33:07"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-03-29 22:33:19"}
+{"level":"warn","message":"No book found for ISBN: 9786056240294","timestamp":"2026-03-29 22:33:20"}
+{"level":"info","message":"Fetching book details for ISBN: 9789759064075","timestamp":"2026-03-29 22:33:33"}
+{"level":"info","message":"Book found: Ferrari'sini Satan Bilge by Robin Shilp Sharma","timestamp":"2026-03-29 22:33:35"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054604098","timestamp":"2026-03-29 22:33:46"}
+{"level":"warn","message":"No book found for ISBN: 9786054604098","timestamp":"2026-03-29 22:33:47"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054604098","timestamp":"2026-03-29 22:34:09"}
+{"level":"warn","message":"No book found for ISBN: 9786054604098","timestamp":"2026-03-29 22:34:10"}
+{"level":"info","message":"Fetching book details for ISBN: 9799752692427","timestamp":"2026-03-29 22:34:27"}
+{"level":"warn","message":"No book found for ISBN: 9799752692427","timestamp":"2026-03-29 22:34:28"}
+{"level":"info","message":"Fetching book details for ISBN: 9786258400069","timestamp":"2026-03-29 22:34:44"}
+{"level":"info","message":"Book found: Üc 21 Kurali Sifa Ritüelleri by Askim Kapismak","timestamp":"2026-03-29 22:34:45"}
+{"level":"info","message":"Fetching book details for ISBN: 9789759038892","timestamp":"2026-03-29 22:34:59"}
+{"level":"info","message":"Book found: Matematik ve oyun by Ali Nesin","timestamp":"2026-03-29 22:35:00"}
+{"level":"info","message":"Fetching book details for ISBN: 9789759038892","timestamp":"2026-03-29 22:36:08"}
+{"level":"info","message":"Book found: Matematik ve oyun by Ali Nesin","timestamp":"2026-03-29 22:36:08"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053123286","timestamp":"2026-03-29 22:36:19"}
+{"level":"info","message":"Book found: Öklid'in elemanları by Euclid","timestamp":"2026-03-29 22:36:20"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-03-29 22:36:38"}
+{"level":"warn","message":"No book found for ISBN: 9786056240294","timestamp":"2026-03-29 22:36:39"}
+{"level":"info","message":"Fetching book details for ISBN: 978605624294","timestamp":"2026-03-29 22:37:11"}
+{"level":"warn","message":"No book found for ISBN: 978605624294","timestamp":"2026-03-29 22:37:11"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-03-29 22:37:18"}
+{"level":"warn","message":"No book found for ISBN: 9786056240294","timestamp":"2026-03-29 22:37:19"}
+{"level":"info","message":"Fetching book details for ISBN: \t9789752692428","timestamp":"2026-03-29 22:43:45"}
+{"level":"warn","message":"No book found for ISBN: \t9789752692428","timestamp":"2026-03-29 22:43:45"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752692428","timestamp":"2026-03-29 22:43:50"}
+{"level":"info","message":"Book found: Eğitimde ve hayatta çocuğumu nasıl yönlendirebilirim? by Ahmet Maraşlı, Cem Sökmen","timestamp":"2026-03-29 22:43:50"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752692428","timestamp":"2026-03-29 22:45:25"}
+{"level":"info","message":"Book found: Eğitimde ve hayatta çocuğumu nasıl yönlendirebilirim? by Ahmet Maraşlı, Cem Sökmen","timestamp":"2026-03-29 22:45:25"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-29 23:53:06"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-29 23:53:06"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-29 23:53:06"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-29 23:53:06"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-29 23:53:06"}
+{"level":"info","message":"Fetching book details for ISBN: 9789759038892","timestamp":"2026-03-29 23:54:40"}
+{"level":"info","message":"Book found: Matematik ve oyun by Ali Nesin","timestamp":"2026-03-29 23:54:41"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750723216","timestamp":"2026-03-29 23:54:52"}
+{"level":"info","message":"Book found: Atesten Gömlek by Halide Edip Adivar","timestamp":"2026-03-29 23:54:53"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-03-29 23:55:01"}
+{"level":"info","message":"Book found: Aklindan Bir Sayi Tut by John Verdon","timestamp":"2026-03-29 23:55:01"}
+{"level":"info","message":"Fetching book details for ISBN: 9789759038892","timestamp":"2026-03-29 23:55:12"}
+{"level":"info","message":"Book found: Matematik ve oyun by Ali Nesin","timestamp":"2026-03-29 23:55:13"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750723216","timestamp":"2026-03-29 23:55:18"}
+{"level":"info","message":"Book found: Atesten Gömlek by Halide Edip Adivar","timestamp":"2026-03-29 23:55:18"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-30 13:51:12"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-30 13:51:12"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-30 13:51:12"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-30 13:51:12"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-30 13:51:12"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-30 13:58:04"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-30 13:58:04"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-30 13:58:04"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-30 13:58:04"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-30 13:58:04"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-30 14:03:18"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-30 14:03:18"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-30 14:03:18"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-30 14:03:18"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-30 14:03:18"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-30 14:46:30"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-30 14:46:30"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-30 14:46:30"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-30 14:46:30"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-30 14:46:30"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-03-30 14:48:37"}
+{"level":"info","message":"Book found: Aklindan Bir Sayi Tut by John Verdon","timestamp":"2026-03-30 14:48:38"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-03-30 14:51:18"}
+{"level":"info","message":"Book found: Aklindan Bir Sayi Tut by John Verdon","timestamp":"2026-03-30 14:51:18"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-03-30 14:52:18"}
+{"level":"info","message":"Book found: Aklindan Bir Sayi Tut by John Verdon","timestamp":"2026-03-30 14:52:18"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-30 15:03:56"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-30 15:03:56"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-30 15:03:56"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-30 15:03:56"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-30 15:03:56"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-03-30 15:04:44"}
+{"level":"info","message":"Book found: Aklindan Bir Sayi Tut by John Verdon","timestamp":"2026-03-30 15:04:44"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-03-30 15:04:55"}
+{"level":"info","message":"Book found: Aklindan Bir Sayi Tut by John Verdon","timestamp":"2026-03-30 15:04:55"}
+{"level":"info","message":"Fetching book details for ISBN: 9786258400069","timestamp":"2026-03-30 15:05:15"}
+{"level":"info","message":"Book found: Üc 21 Kurali Sifa Ritüelleri by Askim Kapismak","timestamp":"2026-03-30 15:05:15"}
+{"level":"info","message":"Fetching book details for ISBN: 9786258400069","timestamp":"2026-03-30 15:05:24"}
+{"level":"info","message":"Book found: Üc 21 Kurali Sifa Ritüelleri by Askim Kapismak","timestamp":"2026-03-30 15:05:25"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-30 16:25:52"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-30 16:25:52"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-30 16:25:52"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-30 16:25:52"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-30 16:25:52"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-03-30 16:26:59"}
+{"level":"info","message":"Book found: Aklindan Bir Sayi Tut by John Verdon","timestamp":"2026-03-30 16:27:00"}
+{"level":"info","message":"Fetching book details for ISBN: 9786258400069","timestamp":"2026-03-30 16:27:32"}
+{"level":"info","message":"Book found: Üc 21 Kurali Sifa Ritüelleri by Askim Kapismak","timestamp":"2026-03-30 16:27:32"}
+{"level":"info","message":"Fetching book details for ISBN: 9789751031051","timestamp":"2026-03-30 16:28:18"}
+{"level":"info","message":"Book found: Suların Getirdiği Padişah by Cahit Ülkü","timestamp":"2026-03-30 16:28:18"}
+{"level":"info","message":"Fetching book details for ISBN: 9789751031051","timestamp":"2026-03-30 16:31:42"}
+{"level":"info","message":"Book found: Suların Getirdiği Padişah by Cahit Ülkü","timestamp":"2026-03-30 16:31:42"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-30 17:48:57"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-30 17:48:57"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-30 17:48:57"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-30 17:48:57"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-30 17:48:57"}
+{"level":"info","message":"Fetching book details for ISBN: 9789751031051","timestamp":"2026-03-30 17:49:38"}
+{"level":"info","message":"Book found: Suların Getirdiği Padişah by Cahit Ülkü","timestamp":"2026-03-30 17:49:38"}
+{"level":"info","message":"Fetching book details for ISBN: 9789751031051","timestamp":"2026-03-30 18:38:38"}
+{"level":"info","message":"Book found: Suların Getirdiği Padişah by Cahit Ülkü","timestamp":"2026-03-30 18:38:39"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-30 23:27:59"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-30 23:27:59"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-30 23:27:59"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-30 23:27:59"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-30 23:27:59"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750850417","timestamp":"2026-03-30 23:30:15"}
+{"level":"info","message":"Book found: Kayıp tanrılar ülkesi by Ahmet Ümit","timestamp":"2026-03-30 23:30:15"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750723216","timestamp":"2026-03-30 23:30:37"}
+{"level":"info","message":"Book found: Atesten Gömlek by Halide Edip Adivar","timestamp":"2026-03-30 23:30:38"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750723216","timestamp":"2026-03-30 23:30:48"}
+{"level":"info","message":"Book found: Atesten Gömlek by Halide Edip Adivar","timestamp":"2026-03-30 23:30:49"}
+{"level":"info","message":"Fetching book details for ISBN: 9789759064073","timestamp":"2026-03-30 23:31:18"}
+{"level":"info","message":"Book found: Ferrari'sini Satan Bilge by Robin Shilp Sharma","timestamp":"2026-03-30 23:31:19"}
+{"level":"info","message":"Fetching book details for ISBN: 9789759064075","timestamp":"2026-03-30 23:31:43"}
+{"level":"info","message":"Book found: Ferrari'sini Satan Bilge by Robin Shilp Sharma","timestamp":"2026-03-30 23:31:43"}
+{"level":"info","message":"Fetching book details for ISBN: 9786255724175","timestamp":"2026-03-30 23:40:15"}
+{"level":"warn","message":"No book found for ISBN: 9786255724175","timestamp":"2026-03-30 23:40:16"}
+{"level":"info","message":"Fetching book details for ISBN: 9786255724175","timestamp":"2026-03-30 23:40:27"}
+{"level":"warn","message":"No book found for ISBN: 9786255724175","timestamp":"2026-03-30 23:40:28"}
+{"level":"info","message":"Fetching book details for ISBN: 9786255724175","timestamp":"2026-03-30 23:40:46"}
+{"level":"warn","message":"No book found for ISBN: 9786255724175","timestamp":"2026-03-30 23:40:47"}
+{"level":"info","message":"Fetching book details for ISBN: 9786255724175","timestamp":"2026-03-30 23:41:10"}
+{"level":"warn","message":"No book found for ISBN: 9786255724175","timestamp":"2026-03-30 23:41:10"}
+{"level":"info","message":"Fetching book details for ISBN: 9786255724175","timestamp":"2026-03-30 23:41:51"}
+{"level":"warn","message":"No book found for ISBN: 9786255724175","timestamp":"2026-03-30 23:41:52"}
+{"level":"info","message":"Fetching book details for ISBN: \t9786255724175","timestamp":"2026-03-30 23:43:13"}
+{"level":"warn","message":"No book found for ISBN: \t9786255724175","timestamp":"2026-03-30 23:43:14"}
+{"level":"info","message":"Fetching book details for ISBN: 9789756500576","timestamp":"2026-03-30 23:46:02"}
+{"level":"warn","message":"No book found for ISBN: 9789756500576","timestamp":"2026-03-30 23:46:03"}
+{"level":"info","message":"Fetching book details for ISBN: 9789756500576","timestamp":"2026-03-30 23:46:39"}
+{"level":"warn","message":"No book found for ISBN: 9789756500576","timestamp":"2026-03-30 23:46:40"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-31 15:21:08"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-31 15:21:08"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-31 15:21:08"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-31 15:21:08"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-31 15:21:08"}
+{"level":"info","message":"Fetching book details for ISBN: \t9786255724175","timestamp":"2026-03-31 15:21:24"}
+{"level":"warn","message":"No book found for ISBN: \t9786255724175","timestamp":"2026-03-31 15:21:24"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-03-31 15:21:41"}
+{"level":"warn","message":"No book found for ISBN: 9786056240294","timestamp":"2026-03-31 15:21:42"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752692428","timestamp":"2026-03-31 15:21:53"}
+{"level":"info","message":"Book found: Eğitimde ve hayatta çocuğumu nasıl yönlendirebilirim? by Ahmet Maraşlı, Cem Sökmen","timestamp":"2026-03-31 15:21:54"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-31 15:28:32"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-31 15:28:32"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-31 15:28:32"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-31 15:28:32"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-31 15:28:32"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752692428","timestamp":"2026-03-31 15:29:57"}
+{"level":"info","message":"Book found: Eğitimde ve hayatta çocuğumu nasıl yönlendirebilirim? by Ahmet Maraşlı, Cem Sökmen","timestamp":"2026-03-31 15:29:58"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-31 16:00:52"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-31 16:00:52"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-31 16:00:52"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-31 16:00:52"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-31 16:00:52"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752692428","timestamp":"2026-03-31 16:00:56"}
+{"level":"info","message":"Book found: Eğitimde ve hayatta çocuğumu nasıl yönlendirebilirim? by Ahmet Maraşlı, Cem Sökmen","timestamp":"2026-03-31 16:01:02"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750723322","timestamp":"2026-03-31 16:01:44"}
+{"level":"info","message":"Book found: Atesten Gomlek by Halide Edib Adıvar","timestamp":"2026-03-31 16:01:46"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752544413","timestamp":"2026-03-31 16:08:16"}
+{"level":"warn","message":"No book found for ISBN: 9789752544413","timestamp":"2026-03-31 16:08:16"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752544413","timestamp":"2026-03-31 16:08:40"}
+{"level":"warn","message":"No book found for ISBN: 9789752544413","timestamp":"2026-03-31 16:08:40"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750850417","timestamp":"2026-03-31 16:08:48"}
+{"level":"info","message":"Book found: Kayıp tanrılar ülkesi by Ahmet Ümit","timestamp":"2026-03-31 16:08:50"}
+{"level":"info","message":"Fetching book details for ISBN: 9786058126169","timestamp":"2026-03-31 16:09:03"}
+{"level":"info","message":"Book found: Öğretmenlerimizle başbaşa by Mehmet Yaşar.. Kandemir","timestamp":"2026-03-31 16:09:04"}
+{"level":"info","message":"Fetching book details for ISBN: 9786059479325","timestamp":"2026-03-31 16:09:25"}
+{"level":"info","message":"Book found: The Playbook Oyunun El Kitabi by Barney Stinson, Matt Kuhn","timestamp":"2026-03-31 16:09:26"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054189427","timestamp":"2026-03-31 16:09:40"}
+{"level":"warn","message":"No book found for ISBN: 9786054189427","timestamp":"2026-03-31 16:09:40"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054189427","timestamp":"2026-03-31 16:09:45"}
+{"level":"warn","message":"No book found for ISBN: 9786054189427","timestamp":"2026-03-31 16:09:45"}
+{"level":"info","message":"Fetching book details for ISBN: 708757796091","timestamp":"2026-03-31 16:09:52"}
+{"level":"warn","message":"No book found for ISBN: 708757796091","timestamp":"2026-03-31 16:09:53"}
+{"level":"info","message":"Fetching book details for ISBN: 9789757796091","timestamp":"2026-03-31 16:09:56"}
+{"level":"info","message":"Book found: İnsan ne ile yaşar by Лев Толстой","timestamp":"2026-03-31 16:09:57"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054189427","timestamp":"2026-03-31 16:10:12"}
+{"level":"warn","message":"No book found for ISBN: 9786054189427","timestamp":"2026-03-31 16:10:12"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054189427","timestamp":"2026-03-31 16:10:15"}
+{"level":"warn","message":"No book found for ISBN: 9786054189427","timestamp":"2026-03-31 16:10:16"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054189427","timestamp":"2026-03-31 16:10:20"}
+{"level":"warn","message":"No book found for ISBN: 9786054189427","timestamp":"2026-03-31 16:10:20"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054189427","timestamp":"2026-03-31 16:10:39"}
+{"level":"warn","message":"No book found for ISBN: 9786054189427","timestamp":"2026-03-31 16:10:39"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-31 16:51:56"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-31 16:51:56"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-31 16:51:56"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-31 16:51:56"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-31 16:51:56"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-03-31 16:52:18"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-03-31 16:52:21"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750723322","timestamp":"2026-03-31 16:53:46"}
+{"level":"info","message":"Book found: Atesten Gomlek by Halide Edib Adıvar","timestamp":"2026-03-31 16:53:47"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-03-31 16:54:13"}
+{"level":"info","message":"Book found: Aklindan Bir Sayi Tut by John Verdon","timestamp":"2026-03-31 16:54:14"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-31 16:57:07"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-31 16:57:07"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-31 16:57:07"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-31 16:57:07"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-31 16:57:07"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-03-31 16:57:14"}
+{"level":"info","message":"Book found: Aklindan Bir Sayi Tut by John Verdon","timestamp":"2026-03-31 16:57:15"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750723322","timestamp":"2026-03-31 16:57:19"}
+{"level":"info","message":"Book found: Atesten Gomlek by Halide Edib Adıvar","timestamp":"2026-03-31 16:57:20"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-03-31 16:57:27"}
+{"level":"info","message":"Book found: Aklindan Bir Sayi Tut by John Verdon","timestamp":"2026-03-31 16:57:28"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750723322","timestamp":"2026-03-31 16:57:34"}
+{"level":"info","message":"Book found: Atesten Gomlek by Halide Edib Adıvar","timestamp":"2026-03-31 16:57:35"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-03-31 16:57:50"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-03-31 16:57:51"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-03-31 17:05:06"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-03-31 17:05:06"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-03-31 17:05:06"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-03-31 17:05:06"}
+{"level":"info","message":"Environment: development","timestamp":"2026-03-31 17:05:06"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-03-31 17:05:09"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-03-31 17:05:11"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-03-31 17:05:12"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-03-31 17:05:13"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 12:23:10"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 12:23:10"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 12:23:10"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 12:23:10"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 12:23:10"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-01 12:23:37"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-04-01 12:23:38"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 12:31:09"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 12:31:09"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 12:31:09"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 12:31:09"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 12:31:09"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-01 12:31:16"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-04-01 12:31:17"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-01 12:31:26"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-04-01 12:31:27"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 12:35:54"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 12:35:54"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 12:35:54"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 12:35:54"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 12:35:54"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-01 12:36:00"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-04-01 12:36:01"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-01 12:36:03"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-04-01 12:36:03"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 12:37:47"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 12:37:47"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 12:37:47"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 12:37:47"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 12:37:47"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-01 12:37:57"}
+{"error":"Request failed with status code 503","level":"error","message":"Book service hatası:","stack":"AxiosError: Request failed with status code 503\n    at settle (C:\\Users\\Emirhan\\Documents\\library-api\\Backend\\node_modules\\axios\\dist\\node\\axios.cjs:2304:7)\n    at Unzip.handleStreamEnd (C:\\Users\\Emirhan\\Documents\\library-api\\Backend\\node_modules\\axios\\dist\\node\\axios.cjs:3772:13)\n    at Unzip.emit (node:events:508:28)\n    at endReadableNT (node:internal/streams/readable:1701:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)\n    at Axios.request (C:\\Users\\Emirhan\\Documents\\library-api\\Backend\\node_modules\\axios\\dist\\node\\axios.cjs:5110:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async getBookByISBN (C:\\Users\\Emirhan\\Documents\\library-api\\Backend\\services\\googleBooksService.js:80:22)\n    at async getBookByIsbn (C:\\Users\\Emirhan\\Documents\\library-api\\Backend\\src\\controllers\\book.controller.js:30:18)","timestamp":"2026-04-01 12:37:57"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-01 12:37:59"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-04-01 12:38:00"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-01 12:38:03"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-04-01 12:38:04"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-01 12:38:05"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-04-01 12:38:06"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-01 12:38:12"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-04-01 12:38:13"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 12:42:35"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 12:42:35"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 12:42:35"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 12:42:35"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 12:42:35"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-01 12:42:43"}
+{"level":"info","message":"Book found: Savas Ve Baris 2. Cilt Takim by Lev Nikolayevic Tolstoy","timestamp":"2026-04-01 12:42:46"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-01 12:44:29"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-01 12:44:33"}
+{"level":"info","message":"Fetching book details for ISBN: 9786059479325","timestamp":"2026-04-01 12:45:27"}
+{"level":"info","message":"Book found: The Playbook Oyunun El Kitabi by Barney Stinson, Matt Kuhn","timestamp":"2026-04-01 12:45:30"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054189427","timestamp":"2026-04-01 12:46:09"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-01 12:46:12"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 12:58:08"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 12:58:08"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 12:58:08"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 12:58:08"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 12:58:08"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054189427","timestamp":"2026-04-01 12:58:13"}
+{"level":"info","message":"Book found: Şeker Portakalı by José Mauro de Vasconcelos","timestamp":"2026-04-01 12:58:16"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054189427","timestamp":"2026-04-01 12:58:52"}
+{"level":"info","message":"Book found: Türk Dili ve Kompozisyon by Yılmaz Daşçıoğlu","timestamp":"2026-04-01 12:58:56"}
+{"level":"info","message":"Fetching book details for ISBN: 9786255683199","timestamp":"2026-04-01 13:01:05"}
+{"error":"Request failed with status code 503","level":"error","message":"Book service hatası:","stack":"AxiosError: Request failed with status code 503\n    at settle (C:\\Users\\Emirhan\\Documents\\library-api\\Backend\\node_modules\\axios\\dist\\node\\axios.cjs:2304:7)\n    at Unzip.handleStreamEnd (C:\\Users\\Emirhan\\Documents\\library-api\\Backend\\node_modules\\axios\\dist\\node\\axios.cjs:3772:13)\n    at Unzip.emit (node:events:508:28)\n    at endReadableNT (node:internal/streams/readable:1701:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)\n    at Axios.request (C:\\Users\\Emirhan\\Documents\\library-api\\Backend\\node_modules\\axios\\dist\\node\\axios.cjs:5110:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async getBookByISBN (C:\\Users\\Emirhan\\Documents\\library-api\\Backend\\services\\googleBooksService.js:102:22)\n    at async getBookByIsbn (C:\\Users\\Emirhan\\Documents\\library-api\\Backend\\src\\controllers\\book.controller.js:30:18)","timestamp":"2026-04-01 13:01:06"}
+{"level":"info","message":"Fetching book details for ISBN: 9786255683199","timestamp":"2026-04-01 13:01:09"}
+{"level":"info","message":"Book found: Sıfırdan Zirveye Python Programlama by Ceyhun ÇETİN, Ömer ERDAL","timestamp":"2026-04-01 13:01:14"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752126169","timestamp":"2026-04-01 13:01:47"}
+{"level":"info","message":"Book found: On Kisiydiler On Kücük Zenci by Agatha Christie","timestamp":"2026-04-01 13:01:50"}
+{"level":"info","message":"Fetching book details for ISBN: 9786255683533","timestamp":"2026-04-01 13:02:04"}
+{"level":"info","message":"Book found: G.O.R.A. Bir Uzay Macerası by Cem Yılmaz","timestamp":"2026-04-01 13:02:08"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 16:32:26"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 16:32:26"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 16:32:26"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 16:32:26"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 16:32:26"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 16:44:37"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 16:44:37"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 16:44:37"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 16:44:37"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 16:44:37"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 16:50:41"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 16:50:41"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 16:50:41"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 16:50:41"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 16:50:41"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 16:54:40"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 16:54:40"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 16:54:40"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 16:54:40"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 16:54:40"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 18:22:11"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 18:22:11"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 18:22:11"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 18:22:11"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 18:22:11"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 18:22:29"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 18:22:29"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 18:22:29"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 18:22:29"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 18:22:29"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 18:31:19"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 18:31:19"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 18:31:19"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 18:31:19"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 18:31:19"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 19:02:19"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 19:02:19"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 19:02:19"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 19:02:19"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 19:02:19"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-01 19:05:21"}
+{"level":"info","message":"Book found: 21. Yüzyil Icin 21 Ders by Yuval Noah Harari","timestamp":"2026-04-01 19:05:24"}
+{"level":"info","message":"Fetching book details for ISBN: 9789759038892","timestamp":"2026-04-01 19:06:18"}
+{"level":"info","message":"Book found: Matematik ve oyun by Ali Nesin","timestamp":"2026-04-01 19:06:22"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 19:32:34"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 19:32:34"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 19:32:34"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 19:32:34"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 19:32:34"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 19:37:48"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 19:37:48"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 19:37:48"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 19:37:48"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 19:37:48"}
+{"level":"info","message":"Fetching book details for ISBN: 9789759038892","timestamp":"2026-04-01 19:38:58"}
+{"level":"info","message":"Book found: Matematik ve oyun by Ali Nesin","timestamp":"2026-04-01 19:39:10"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-01 19:39:33"}
+{"level":"info","message":"Book found: 21. Yüzyil Icin 21 Ders by Yuval Noah Harari","timestamp":"2026-04-01 19:39:37"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-01 20:17:04"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-01 20:17:04"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-01 20:17:04"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-01 20:17:04"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-01 20:17:04"}
+{"level":"info","message":"Fetching book details for ISBN: 9789757663478","timestamp":"2026-04-01 20:23:24"}
+{"level":"info","message":"Book found: İbrâhim Efendi konağı by Sâmiha Ayverdi","timestamp":"2026-04-01 20:23:29"}
+{"level":"info","message":"Fetching book details for ISBN: 9789757663478","timestamp":"2026-04-01 20:24:26"}
+{"level":"info","message":"Book found: İbrâhim Efendi konağı by Sâmiha Ayverdi","timestamp":"2026-04-01 20:24:28"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 21:57:32"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 21:57:32"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 21:57:32"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 21:57:32"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 21:57:32"}
+{"level":"info","message":"Fetching book details for ISBN: 9786255683533","timestamp":"2026-04-02 21:57:56"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 21:57:57"}
+{"level":"info","message":"Fetching book details for ISBN: 9789751031051","timestamp":"2026-04-02 21:58:09"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 21:58:10"}
+{"level":"info","message":"Fetching book details for ISBN: 97897510310519786052205082","timestamp":"2026-04-02 21:58:15"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 21:58:15"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-02 21:58:38"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 21:58:39"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:09:44"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:09:44"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:09:44"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:09:44"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:09:44"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:10:00"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:10:00"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:10:00"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:10:00"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:10:00"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-02 22:10:05"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:10:05"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-02 22:10:07"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:10:07"}
+{"level":"info","message":"Fetching book details for ISBN: 9789751031051","timestamp":"2026-04-02 22:10:23"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:10:23"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:11:12"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:11:12"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:11:12"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:11:12"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:11:12"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:11:22"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:11:22"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:11:22"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:11:22"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:11:22"}
+{"level":"info","message":"Fetching book details for ISBN: 9789751031051","timestamp":"2026-04-02 22:11:27"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:11:28"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:16:34"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:16:34"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:16:34"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:16:34"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:16:34"}
+{"level":"info","message":"Fetching book details for ISBN: 9789751031051","timestamp":"2026-04-02 22:16:45"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:16:46"}
+{"level":"info","message":"Fetching book details for ISBN: 9789751031051","timestamp":"2026-04-02 22:16:48"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:16:48"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-02 22:17:01"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:17:01"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:31:08"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:31:08"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:31:08"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:31:08"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:31:08"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-02 22:31:13"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:31:15"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-02 22:31:17"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:31:18"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-02 22:31:31"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:31:32"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:34:18"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:34:18"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:34:18"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:34:18"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:34:18"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-02 22:34:38"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:34:40"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:38:08"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:38:08"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:38:08"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:38:08"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:38:08"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-02 22:38:13"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:38:15"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:43:36"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:43:36"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:43:36"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:43:36"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:43:36"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-02 22:43:40"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:43:42"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:45:01"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:45:01"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:45:01"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:45:01"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:45:01"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:45:21"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:45:21"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:45:21"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:45:21"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:45:21"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-02 22:45:28"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:45:30"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:47:46"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:47:46"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:47:46"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:47:46"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:47:46"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-02 22:47:52"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:47:53"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:51:06"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:51:06"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:51:06"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:51:06"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:51:06"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-02 22:51:11"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:51:11"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-02 22:51:13"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:51:13"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:52:19"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:52:19"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:52:19"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:52:19"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:52:19"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 22:52:32"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 22:52:32"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 22:52:32"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 22:52:32"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 22:52:32"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-02 22:52:41"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 22:52:42"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-02 23:01:51"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-02 23:01:51"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-02 23:01:51"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-02 23:01:51"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-02 23:01:51"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-02 23:01:59"}
+{"level":"info","message":"Book found: Bilinmeyen Başlık by Unknown author","timestamp":"2026-04-02 23:02:03"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-03 01:58:18"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-03 01:58:18"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-03 01:58:18"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-03 01:58:18"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-03 01:58:18"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-03 01:58:32"}
+{"level":"info","message":"Book found: 21. yüzyıl için 21 ders by Harari, Yuval Noah,, Siral, Selin, Çaça, Eda,","timestamp":"2026-04-03 01:58:37"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-03 02:01:30"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-03 02:01:30"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-03 02:01:30"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-03 02:01:30"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-03 02:01:30"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-03 02:01:42"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-03 02:01:42"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-03 02:01:42"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-03 02:01:42"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-03 02:01:42"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-03 02:01:46"}
+{"level":"info","message":"Book found: 21. yüzyıl için 21 ders by Harari, Yuval Noah,, Siral, Selin, Çaça, Eda,","timestamp":"2026-04-03 02:01:50"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-03 02:04:30"}
+{"level":"info","message":"Book found: Hizmetkar kim? by Özer, Cenk Enes","timestamp":"2026-04-03 02:04:34"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-03 02:07:51"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-03 02:07:51"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-03 02:07:51"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-03 02:07:51"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-03 02:07:51"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-03 02:07:56"}
+{"level":"info","message":"Book found: Hizmetkar kim? by Özer, Cenk Enes","timestamp":"2026-04-03 02:07:59"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-03 02:08:12"}
+{"level":"info","message":"Book found: 21. yüzyıl için 21 ders by Harari, Yuval Noah,, Siral, Selin, Çaça, Eda,","timestamp":"2026-04-03 02:08:17"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-03 02:12:47"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-03 02:12:47"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-03 02:12:47"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-03 02:12:47"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-03 02:12:47"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-03 02:13:05"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-03 02:13:05"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-03 02:13:05"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-03 02:13:05"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-03 02:13:05"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-03 02:13:08"}
+{"level":"info","message":"Book found: 21. yüzyıl için 21 ders by Harari, Yuval Noah,, Siral, Selin, Çaça, Eda,","timestamp":"2026-04-03 02:13:12"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-03 02:13:14"}
+{"level":"info","message":"Book found: 21. yüzyıl için 21 ders by Harari, Yuval Noah,, Siral, Selin, Çaça, Eda,","timestamp":"2026-04-03 02:13:19"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-03 02:18:52"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-03 02:18:52"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-03 02:18:52"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-03 02:18:52"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-03 02:18:52"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-03 02:18:57"}
+{"level":"info","message":"Book found: 21. yüzyıl için 21 ders by Unknown author","timestamp":"2026-04-03 02:19:02"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-03 02:19:50"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-03 02:19:50"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-03 02:19:50"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-03 02:19:50"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-03 02:19:50"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-03 02:19:54"}
+{"level":"info","message":"Book found: 21. yüzyıl için 21 ders by Unknown author","timestamp":"2026-04-03 02:19:57"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-03 02:20:18"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-03 02:20:18"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-03 02:20:18"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-03 02:20:18"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-03 02:20:18"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-03 02:20:20"}
+{"level":"info","message":"Book found: 21. yüzyıl için 21 ders by Unknown author","timestamp":"2026-04-03 02:20:24"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-03 02:24:54"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-03 02:24:54"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-03 02:24:54"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-03 02:24:54"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-03 02:24:54"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-03 02:25:05"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-03 02:25:05"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-03 02:25:05"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-03 02:25:05"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-03 02:25:05"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-03 02:25:10"}
+{"level":"info","message":"Book found: 21. yüzyıl için 21 ders by Unknown author","timestamp":"2026-04-03 02:25:14"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-03 02:25:23"}
+{"level":"info","message":"Book found: Hizmetkar kim? by Unknown author","timestamp":"2026-04-03 02:25:27"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-03 02:26:09"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-03 02:26:09"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-03 02:26:09"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-03 02:26:09"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-03 02:26:09"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-03 02:26:19"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-03 02:26:19"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-03 02:26:19"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-03 02:26:19"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-03 02:26:19"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-03 02:26:23"}
+{"level":"info","message":"Book found: Hizmetkar kim? by Özer, Cenk Enes","timestamp":"2026-04-03 02:26:26"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-03 23:33:39"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-03 23:33:40"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-03 23:33:40"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-03 23:33:40"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-03 23:33:40"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-03 23:34:01"}
+{"level":"info","message":"Book found: Hizmetkar kim? by Özer, Cenk Enes","timestamp":"2026-04-03 23:34:07"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054189427","timestamp":"2026-04-03 23:35:06"}
+{"level":"warn","message":"No book found for ISBN: 9786054189427","timestamp":"2026-04-03 23:35:10"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752544413","timestamp":"2026-04-03 23:38:05"}
+{"level":"info","message":"Book found: Her şeye rağmen sevgi by Tolstoy, Lev,, Yıldırım, Ersin,","timestamp":"2026-04-03 23:38:12"}
+{"level":"info","message":"Fetching book details for ISBN: 9786055047375","timestamp":"2026-04-03 23:40:03"}
+{"level":"info","message":"Book found: Gerçek kurtuluş : by Saraç, Âdem,, Şemen, Erdinç,","timestamp":"2026-04-03 23:40:14"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-04 16:37:52"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-04 16:37:52"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-04 16:37:52"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-04 16:37:52"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-04 16:37:52"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-04 16:41:27"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-04 16:41:27"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-04 16:41:27"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-04 16:41:27"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-04 16:41:27"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-04 16:55:18"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-04 16:55:18"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-04 16:55:18"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-04 16:55:18"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-04 16:55:18"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-04 17:00:50"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-04 17:00:50"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-04 17:00:50"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-04 17:00:50"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-04 17:00:50"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-04 17:34:36"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-04 17:34:36"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-04 17:34:36"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-04 17:34:36"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-04 17:34:36"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750850417","timestamp":"2026-04-04 17:37:56"}
+{"level":"info","message":"Book found: Kayıp tanrılar ülkesi :roman by Ümit, Ahmet,","timestamp":"2026-04-04 17:38:01"}
+{"level":"info","message":"Fetching book details for ISBN: 3799252544413","timestamp":"2026-04-04 17:38:19"}
+{"level":"warn","message":"No book found for ISBN: 3799252544413","timestamp":"2026-04-04 17:38:22"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752544413","timestamp":"2026-04-04 17:38:42"}
+{"level":"info","message":"Book found: Her şeye rağmen sevgi by Tolstoy, Lev,, Yıldırım, Ersin,","timestamp":"2026-04-04 17:38:46"}
+{"level":"info","message":"Fetching book details for ISBN: 9786059479325","timestamp":"2026-04-04 17:38:53"}
+{"level":"info","message":"Book found: The playbook : by Khun, Matt., Stinson, Barney, Yağcı, Selen, Yıldız, Selcan, Vural, A. Gazi,","timestamp":"2026-04-04 17:38:56"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752544413","timestamp":"2026-04-04 17:39:16"}
+{"level":"info","message":"Book found: Her şeye rağmen sevgi by Tolstoy, Lev,, Yıldırım, Ersin,","timestamp":"2026-04-04 17:39:20"}
+{"level":"info","message":"Fetching book details for ISBN: 9786058126169","timestamp":"2026-04-04 17:39:52"}
+{"level":"info","message":"Book found: Öğretmenlerimizle başbaşa by Kandemir, M. Yaşar,","timestamp":"2026-04-04 17:39:56"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052205082","timestamp":"2026-04-04 17:40:36"}
+{"level":"info","message":"Book found: 21. yüzyıl için 21 ders by Harari, Yuval Noah,, Siral, Selin, Çaça, Eda,","timestamp":"2026-04-04 17:40:40"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-04 17:58:21"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-04 17:58:21"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-04 17:58:21"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-04 17:58:21"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-04 17:58:21"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-04 17:59:36"}
+{"level":"info","message":"Book found: Hizmetkar kim? by Özer, Cenk Enes","timestamp":"2026-04-04 17:59:41"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056240294","timestamp":"2026-04-04 17:59:55"}
+{"level":"info","message":"Book found: Hizmetkar kim? by Özer, Cenk Enes","timestamp":"2026-04-04 17:59:59"}
+{"level":"info","message":"Fetching book details for ISBN: 9789759038892","timestamp":"2026-04-04 18:00:19"}
+{"level":"info","message":"Book found: Matematik ve oyun by Nesin, Ali,","timestamp":"2026-04-04 18:00:22"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-04 23:13:24"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-04 23:13:24"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-04 23:13:24"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-04 23:13:24"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-04 23:13:24"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052420027","timestamp":"2026-04-04 23:22:50"}
+{"level":"info","message":"Book found: Cingöz Recai. by Peyami Safa,","timestamp":"2026-04-04 23:22:55"}
+{"level":"info","message":"Fetching book details for ISBN: 9786050955453","timestamp":"2026-04-04 23:23:35"}
+{"level":"info","message":"Book found: Göçüp gidenler koleksiyoncusu by Yaşar, Şermin,, Güneş, Aslı,","timestamp":"2026-04-04 23:23:39"}
+{"level":"info","message":"Fetching book details for ISBN: 744056765055","timestamp":"2026-04-04 23:26:26"}
+{"level":"warn","message":"No book found for ISBN: 744056765055","timestamp":"2026-04-04 23:26:29"}
+{"level":"info","message":"Fetching book details for ISBN: 9786056785955","timestamp":"2026-04-04 23:26:46"}
+{"level":"info","message":"Book found: Leyla ile Mecnun by Aksak, Burak,","timestamp":"2026-04-04 23:26:49"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750723322","timestamp":"2026-04-04 23:27:43"}
+{"level":"info","message":"Book found: Ateşten gömlek :roman by Edip-Adıvar, Halide,","timestamp":"2026-04-04 23:27:47"}
+{"level":"info","message":"Fetching book details for ISBN: 9789750723322","timestamp":"2026-04-04 23:27:57"}
+{"level":"info","message":"Book found: Ateşten gömlek :roman by Edip-Adıvar, Halide,","timestamp":"2026-04-04 23:28:01"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-06 13:28:12"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-06 13:28:12"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-06 13:28:12"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-06 13:28:12"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-06 13:28:12"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052420027","timestamp":"2026-04-06 13:51:14"}
+{"level":"info","message":"Book found: Cingöz Recai. by Peyami Safa,","timestamp":"2026-04-06 13:51:19"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-06 14:09:27"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-06 14:09:28"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-06 14:09:28"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-06 14:09:28"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-06 14:09:28"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-06 14:52:42"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-06 14:52:42"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-06 14:52:42"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-06 14:52:42"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-06 14:52:42"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-06 17:08:11"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-06 17:08:11"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-06 17:08:11"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-06 17:08:11"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-06 17:08:11"}
+{"level":"info","message":"Fetching book details for ISBN: 9786055047375","timestamp":"2026-04-06 17:08:31"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9786055047375","timestamp":"2026-04-06 17:08:31"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053324744","timestamp":"2026-04-06 17:09:21"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9786053324744","timestamp":"2026-04-06 17:09:21"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053324744","timestamp":"2026-04-06 17:09:27"}
+{"level":"info","message":"Fetching book details for ISBN: 9786055047375","timestamp":"2026-04-06 17:09:33"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-06 23:27:43"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-06 23:27:43"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-06 23:27:43"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-06 23:27:43"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-06 23:27:43"}
+{"level":"info","message":"Fetching book details for ISBN: 9789754059823","timestamp":"2026-04-06 23:35:23"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9789754059823","timestamp":"2026-04-06 23:35:23"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-04-06 23:35:42"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-04-06 23:35:57"}
+{"level":"info","message":"Fetching book details for ISBN: 9783054178710","timestamp":"2026-04-06 23:36:06"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9783054178710","timestamp":"2026-04-06 23:36:06"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-04-06 23:36:13"}
+{"level":"info","message":"Fetching book details for ISBN: 9786054188710","timestamp":"2026-04-06 23:36:33"}
+{"level":"info","message":"Fetching book details for ISBN: 9786258400069","timestamp":"2026-04-06 23:36:49"}
+{"level":"info","message":"Fetching book details for ISBN: 9786258400069","timestamp":"2026-04-06 23:36:55"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752448308","timestamp":"2026-04-06 23:37:06"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9789752448308","timestamp":"2026-04-06 23:37:06"}
+{"level":"info","message":"Fetching book details for ISBN: 9786052420034","timestamp":"2026-04-06 23:37:17"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9786052420034","timestamp":"2026-04-06 23:37:17"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752448308","timestamp":"2026-04-06 23:38:41"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-07 21:17:11"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-07 21:17:11"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-07 21:17:11"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-07 21:17:11"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-07 21:17:11"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752639829","timestamp":"2026-04-07 21:22:40"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9789752639829","timestamp":"2026-04-07 21:22:40"}
+{"level":"info","message":"Fetching book details for ISBN: 9786051141275","timestamp":"2026-04-07 21:23:01"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9786051141275","timestamp":"2026-04-07 21:23:01"}
+{"level":"info","message":"Fetching book details for ISBN: 9789755094496","timestamp":"2026-04-07 21:23:35"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9789755094496","timestamp":"2026-04-07 21:23:35"}
+{"level":"info","message":"Fetching book details for ISBN: 9789752477049","timestamp":"2026-04-07 21:24:03"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9789752477049","timestamp":"2026-04-07 21:24:03"}
+{"level":"info","message":"Fetching book details for ISBN: 9789751902290","timestamp":"2026-04-07 21:24:16"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9789751902290","timestamp":"2026-04-07 21:24:16"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053324744","timestamp":"2026-04-07 21:27:25"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9786053324744","timestamp":"2026-04-07 21:27:25"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-08 00:37:03"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-08 00:37:03"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-08 00:37:03"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-08 00:37:03"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-08 00:37:03"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-08 14:19:20"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-08 14:19:20"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-08 14:19:20"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-08 14:19:20"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-08 14:19:20"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-08 14:19:23"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-08 14:19:23"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-08 14:19:23"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-08 14:19:23"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-08 14:19:23"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-08 14:23:58"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9786053329008","timestamp":"2026-04-08 14:23:58"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-08 14:25:17"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-08 14:35:48"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-08 14:35:48"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-08 14:35:48"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-08 14:35:48"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-08 14:35:48"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-08 14:37:13"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9786053329008","timestamp":"2026-04-08 14:37:13"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-08 14:44:31"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-08 14:44:31"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-08 14:44:31"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-08 14:44:31"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-08 14:44:31"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-08 14:44:55"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9786053329008","timestamp":"2026-04-08 14:44:55"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-08 15:08:31"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-08 15:08:31"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-08 15:08:31"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-08 15:08:31"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-08 15:08:31"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-08 15:24:08"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-08 15:24:08"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-08 15:24:08"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-08 15:24:08"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-08 15:24:08"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-08 15:24:13"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9786053329008","timestamp":"2026-04-08 15:24:13"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-08 15:35:43"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-08 15:35:43"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-08 15:35:43"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-08 15:35:43"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-08 15:35:43"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-08 15:35:48"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9786053329008","timestamp":"2026-04-08 15:35:48"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-08 16:02:16"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-08 16:02:16"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-08 16:02:16"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-08 16:02:16"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-08 16:02:16"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-08 16:14:24"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-08 16:14:25"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-08 16:14:25"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-08 16:14:25"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-08 16:14:25"}
+{"level":"info","message":"Fetching book details for ISBN: 9786051557908","timestamp":"2026-04-08 16:20:27"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9786051557908","timestamp":"2026-04-08 16:20:27"}
+{"level":"info","message":"Fetching book details for ISBN: 9786051557908","timestamp":"2026-04-08 16:27:16"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-08 16:30:36"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-08 16:30:36"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-08 16:30:36"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-08 16:30:36"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-08 16:30:36"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053324744","timestamp":"2026-04-08 16:32:19"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9786053324744","timestamp":"2026-04-08 16:32:19"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-08 16:38:06"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-08 16:38:06"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-08 16:38:06"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-08 16:38:06"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-08 16:38:06"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-08 16:39:51"}
+{"level":"info","message":"Book not found locally, querying KASIF for ISBN: 9786053329008","timestamp":"2026-04-08 16:39:51"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-08 16:40:36"}
+{"level":"info","message":"Attempting to connect to PostgreSQL database...","timestamp":"2026-04-08 18:43:46"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-04-08 18:43:46"}
+{"level":"info","message":"Starting server on port 5000...","timestamp":"2026-04-08 18:43:46"}
+{"level":"info","message":"Server is running and listening on port 5000","timestamp":"2026-04-08 18:43:46"}
+{"level":"info","message":"Environment: development","timestamp":"2026-04-08 18:43:46"}
+{"level":"info","message":"Fetching book details for ISBN: 9786053329008","timestamp":"2026-04-08 18:44:59"}
