@@ -8,6 +8,7 @@ const userRoutes = require("./routes/user.routes");
 const reservationRoutes = require("./routes/reservation.routes");
 const adminRoutes = require("./routes/admin.routes");
 const schoolRoutes = require("./routes/school.routes");
+const studentRoutes = require("./routes/student.routes");
 
 const app = express();
 
@@ -61,6 +62,7 @@ app.use("/api/users", userRoutes);
 app.use("/api/reservations", reservationRoutes);
 app.use("/api/admin", adminRoutes);
 app.use("/api/schools", schoolRoutes);
+app.use("/api/students", studentRoutes);
 
 app.use((err, req, res, next) => {
   console.error("[UNHANDLED_ERROR]", err);

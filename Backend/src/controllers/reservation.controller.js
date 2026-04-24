@@ -160,15 +160,26 @@ const createReservation = async (req, res, next) => {
 };
 
 const loanReservation = async (req, res, next) => {
+  const client = await pool.connect();
+
   try {
     const { id } = req.params;
 
-    const existing = await pool.query(
-      "SELECT * FROM reservations WHERE reservation_id = $1",
+    await client.query("BEGIN");
+
+    const existing = await client.query(
+      `
+      SELECT r.*, s.school_code
+      FROM public.reservations r
+      JOIN public.schools s ON s.school_id = r.school_id
+      WHERE r.reservation_id = $1
+      FOR UPDATE
+      `,
       [id]
     );
 
     if (existing.rows.length === 0) {
+      await client.query("ROLLBACK");
       return res.status(404).json({
         success: false,
         message: "Reservation not found",
@@ -178,29 +189,61 @@ const loanReservation = async (req, res, next) => {
     const reservation = existing.rows[0];
 
     if (reservation.reservation_status === "loaned") {
+      await client.query("ROLLBACK");
       return res.status(400).json({
         success: false,
         message: "Reservation already loaned",
       });
     }
 
-    const result = await pool.query(
-      `UPDATE reservations
-       SET reservation_status = 'loaned',
-           loaned_date = CURRENT_TIMESTAMP,
-           updated_at = CURRENT_TIMESTAMP
-       WHERE reservation_id = $1
-       RETURNING *`,
+    if (reservation.reservation_status === "returned") {
+      await client.query("ROLLBACK");
+      return res.status(400).json({
+        success: false,
+        message: "Returned reservation cannot be loaned",
+      });
+    }
+
+    const updatedPublic = await client.query(
+      `
+      UPDATE public.reservations
+      SET reservation_status = 'loaned',
+          loaned_date = CURRENT_TIMESTAMP,
+          due_date = CURRENT_TIMESTAMP + INTERVAL '15 days',
+          updated_at = CURRENT_TIMESTAMP
+      WHERE reservation_id = $1
+      RETURNING *
+      `,
       [id]
     );
 
-    res.status(200).json({
+    const schemaName = `school_${reservation.school_code}`;
+
+    await client.query(
+      `
+      UPDATE ${schemaName}.reservations
+      SET status = 'loaned',
+          due_date = CURRENT_TIMESTAMP + INTERVAL '15 days'
+      WHERE user_id = $1
+        AND book_id = $2
+        AND school_id = $3
+        AND status = 'reserved'
+      `,
+      [reservation.user_id, reservation.book_id, reservation.school_id]
+    );
+
+    await client.query("COMMIT");
+
+    return res.status(200).json({
       success: true,
       message: "Reservation loaned",
-      data: result.rows[0],
+      data: updatedPublic.rows[0],
     });
   } catch (error) {
+    await client.query("ROLLBACK");
     next(error);
+  } finally {
+    client.release();
   }
 };
 
