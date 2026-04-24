@@ -188,19 +188,11 @@ const loanReservation = async (req, res, next) => {
 
     const reservation = existing.rows[0];
 
-    if (reservation.reservation_status === "loaned") {
+    if (reservation.reservation_status !== "pending_approval") {
       await client.query("ROLLBACK");
       return res.status(400).json({
         success: false,
-        message: "Reservation already loaned",
-      });
-    }
-
-    if (reservation.reservation_status === "returned") {
-      await client.query("ROLLBACK");
-      return res.status(400).json({
-        success: false,
-        message: "Returned reservation cannot be loaned",
+        message: "Sadece bekleyen kitap talepleri onaylanabilir",
       });
     }
 
@@ -227,7 +219,7 @@ const loanReservation = async (req, res, next) => {
       WHERE user_id = $1
         AND book_id = $2
         AND school_id = $3
-        AND status = 'reserved'
+        AND status = 'pending_approval'
       `,
       [reservation.user_id, reservation.book_id, reservation.school_id]
     );
@@ -236,7 +228,93 @@ const loanReservation = async (req, res, next) => {
 
     return res.status(200).json({
       success: true,
-      message: "Reservation loaned",
+      message: "Kitap talebi onaylandı",
+      data: updatedPublic.rows[0],
+    });
+  } catch (error) {
+    await client.query("ROLLBACK");
+    next(error);
+  } finally {
+    client.release();
+  }
+};
+
+const rejectReservation = async (req, res, next) => {
+  const client = await pool.connect();
+
+  try {
+    const { id } = req.params;
+
+    await client.query("BEGIN");
+
+    const existing = await client.query(
+      `
+      SELECT r.*, s.school_code
+      FROM public.reservations r
+      JOIN public.schools s ON s.school_id = r.school_id
+      WHERE r.reservation_id = $1
+      FOR UPDATE
+      `,
+      [id]
+    );
+
+    if (existing.rows.length === 0) {
+      await client.query("ROLLBACK");
+      return res.status(404).json({
+        success: false,
+        message: "Reservation not found",
+      });
+    }
+
+    const reservation = existing.rows[0];
+
+    if (reservation.reservation_status !== "pending_approval") {
+      await client.query("ROLLBACK");
+      return res.status(400).json({
+        success: false,
+        message: "Sadece bekleyen kitap talepleri reddedilebilir",
+      });
+    }
+
+    const schemaName = `school_${reservation.school_code}`;
+
+    const updatedPublic = await client.query(
+      `
+      UPDATE public.reservations
+      SET reservation_status = 'rejected',
+          updated_at = CURRENT_TIMESTAMP
+      WHERE reservation_id = $1
+      RETURNING *
+      `,
+      [id]
+    );
+
+    await client.query(
+      `
+      UPDATE ${schemaName}.reservations
+      SET status = 'rejected'
+      WHERE user_id = $1
+        AND book_id = $2
+        AND school_id = $3
+        AND status = 'pending_approval'
+      `,
+      [reservation.user_id, reservation.book_id, reservation.school_id]
+    );
+
+    await client.query(
+      `
+      UPDATE ${schemaName}.book_inventory
+      SET available_quantity = available_quantity + 1
+      WHERE book_id = $1
+      `,
+      [reservation.book_id]
+    );
+
+    await client.query("COMMIT");
+
+    return res.status(200).json({
+      success: true,
+      message: "Kitap talebi reddedildi",
       data: updatedPublic.rows[0],
     });
   } catch (error) {
@@ -340,6 +418,7 @@ module.exports = {
   getReservationById,
   createReservation,
   loanReservation,
+  rejectReservation,
   returnReservation,
   deleteReservation,
 };

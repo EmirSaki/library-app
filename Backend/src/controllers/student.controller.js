@@ -234,7 +234,10 @@ const loginStudent = async (req, res, next) => {
 
     const user = result.rows[0];
 
-    const passwordOk = await bcrypt.compare(String(password), user.password || "");
+    const passwordOk = await bcrypt.compare(
+      String(password),
+      user.password || ""
+    );
 
     if (!passwordOk) {
       return res.status(401).json({
@@ -319,7 +322,7 @@ const createStudentReservation = async (req, res, next) => {
       FROM ${schemaName}.reservations
       WHERE user_id = $1
         AND book_id = $2
-        AND status IN ('reserved', 'loaned')
+        AND status IN ('pending_approval', 'loaned', 'return_requested')
       LIMIT 1
       `,
       [user_id, book_id]
@@ -329,7 +332,7 @@ const createStudentReservation = async (req, res, next) => {
       await client.query("ROLLBACK");
       return res.status(409).json({
         success: false,
-        message: "Bu kitap için zaten aktif rezervasyonun var",
+        message: "Bu kitap için zaten aktif talebin veya ödüncün var",
       });
     }
 
@@ -345,7 +348,7 @@ const createStudentReservation = async (req, res, next) => {
         created_at,
         updated_at
       )
-      VALUES ($1, $2, $3, CURRENT_TIMESTAMP, 'reserved', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP)
+      VALUES ($1, $2, $3, CURRENT_TIMESTAMP, 'pending_approval', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP)
       RETURNING *
       `,
       [user_id, book_id, school_id]
@@ -361,7 +364,7 @@ const createStudentReservation = async (req, res, next) => {
         status,
         reserved_at
       )
-      VALUES ($1, $2, $3, 'reserved', CURRENT_TIMESTAMP)
+      VALUES ($1, $2, $3, 'pending_approval', CURRENT_TIMESTAMP)
       RETURNING *
       `,
       [user_id, book_id, school_id]
@@ -380,7 +383,7 @@ const createStudentReservation = async (req, res, next) => {
 
     return res.status(201).json({
       success: true,
-      message: "Kitap rezerve edildi",
+      message: "Kitap talebi oluşturuldu",
       data: {
         publicReservation: publicReservation.rows[0],
         schoolReservation: schoolReservation.rows[0],
